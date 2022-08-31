@@ -1,0 +1,17 @@
+div {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 10px 20px 30px 50px;
+    
+    display: inline-block;
+    padding: 10px 20px;
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+#prueba{
+ background-color: blue;
+}
